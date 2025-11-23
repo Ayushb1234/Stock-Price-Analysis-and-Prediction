@@ -18,3 +18,4 @@ lightgbm
 scikit-learn
 joblib
 ta
+plotly
