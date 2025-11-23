@@ -10,3 +10,11 @@ lightgbm
 ta
 websocket-client
 shap
+streamlit
+pandas
+numpy
+yfinance
+lightgbm
+scikit-learn
+joblib
+ta
