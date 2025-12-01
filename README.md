@@ -86,8 +86,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-🧠 How It Works
-Stage	Description
+## 🧠 How It Works
+
+## Stage Description
+---------------------
+
 1. Data fetching	Live stock data retrieved via Yahoo Finance
 2. Feature engineering	Volume, OHLC features, technical indicators
 3. Model inference	LightGBM model predicts BUY/SELL
@@ -98,7 +101,8 @@ Stage	Description
 Candlestick	RSI + MACD
 
 	
-🔮 Future Enhancements
+## 🔮 Future Enhancements
+-----------------------------
 
 📩 Telegram or Email trading alerts
 
@@ -119,20 +123,21 @@ AI/ML	Scikit-learn, LightGBM
 Data Source	Yahoo Finance (yfinance)
 Optional DB	PostgreSQL
 
-🤝 Contributing
+##🤝 Contributing
 ------------------
 
 PRs are welcome. For major changes, please open an issue.
 
-⭐ Support
--------------
+## ⭐ Support
+--------------
 
 If this project helped you — star the repo ⭐ and share it!
 
-Author
+## Author
 ---------
 👤 Ayush
 💻 AI/ML Developer
 🚀 Gen-Z Engineer who automates financial decision making.
+
 
 
